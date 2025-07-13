@@ -1,7 +1,7 @@
 {
   "name": "Auto1111 Local",
   "description": "Launches my local install of Auto1111 Stable Diffusion WebUI.",
-  "repository": "local-install",
+  "repository": "https://github.com/orinaor/pinokio",
   "install": [],
   "run": "H:\\repo\\Auto1111_V10\\stable-diffusion-webui\\webui-user.bat"
 }
